@@ -1,62 +1,43 @@
-🌟 COGNIFYZ TECHNOLOGIES INTERNSHIP (FEB 7 – MARCH 7, 2025) 🌟
-📌 TASK 1: HTML/CSS
-🎨 SIMPLE WEBPAGE
-🖥️ Create a webpage with:
-✔️ 👉 HEADING
-✔️ 👉 PARAGRAPH
-✔️ 👉 IMAGE
-✨ Styled using CSS for a clean look.
+🚀 Cognifyz Technologies Internship Tasks (February 7 – March 7, 2025) 🏆
+📝 Task 1: HTML/CSS 🎨
+Description:
+🌍 Build fundamental web components using HTML & CSS to structure and style a webpage.
 
-📝 BASIC FORM
-📩 Build a form with:
-🔹 👉 SINGLE INPUT FIELD (e.g., Name or Email)
-🔹 👉 SUBMIT BUTTON
-💡 Apply CSS STYLING for a professional design.
+Features:
+✔️ 🖥️ Create a Simple Webpage with a heading, paragraph, and image
+✔️ 📩 Build a Basic Form with an input field & submit button
+✔️ 🔗 Design a Navigation Menu with three links and hover effects
 
-🔗 NAVIGATION MENU
-🌐 Design a simple NAVIGATION MENU with:
-🔹 👉 THREE LINKS
-🔹 👉 HOVER EFFECTS for a smooth experience.
+⚡ Task 2: JavaScript 💻
+Description:
+⚙️ Enhance interactivity using JavaScript for dynamic and user-friendly experiences.
 
-⚡ TASK 2: JAVASCRIPT
-🎨 INTERACTIVE BUTTON
-🎨 Develop a button that CHANGES COLOR WHEN CLICKED.
+Features:
+✔️ 🎨 Create an Interactive Button that changes color when clicked
+✔️ ⏰ Implement a Dynamic Greeting Alert based on current time
+✔️ ➕ Develop a Basic Calculator to add two numbers & display the result
 
-⏰ DYNAMIC GREETING ALERT
-💬 Create an ALERT BOX that displays a GREETING MESSAGE BASED ON THE CURRENT TIME (e.g., "Good Morning! 🌞").
+📦 Task 3: Front-end Frameworks 🖼️
+Description:
+🔹 Leverage popular front-end frameworks to build responsive components.
 
-➕ BASIC CALCULATOR
-🧮 Build a CALCULATOR that:
-🔹 👉 TAKES TWO NUMBERS AS INPUT
-🔹 👉 ADDS THEM TOGETHER
-🔹 👉 DISPLAYS THE RESULT
+Features:
+✔️ 🃏 Create a Responsive Card Component using Bulma or UIKit
+✔️ 📐 Implement a Responsive Grid Layout using Bootstrap or Foundation
 
-🖼️ TASK 3: FRONT-END FRAMEWORKS
-📦 RESPONSIVE CARD COMPONENT
-🃏 Use BULMA OR UIKIT to create a CARD with:
-📸 👉 IMAGE
-📝 👉 TEXT
-✔️ Fully RESPONSIVE ON ALL DEVICES.
+📱 Task 4: Responsive Design 📊
+Description:
+🌍 Ensure a seamless user experience across all screen sizes using CSS media queries.
 
-📐 RESPONSIVE GRID LAYOUT
-📊 Implement a GRID LAYOUT using BOOTSTRAP OR FOUNDATION.
-✔️ 👉 ADAPTS TO DIFFERENT SCREEN SIZES.
+Features:
+✔️ 🔄 Convert a Basic Webpage into a fully responsive design
+✔️ 🍔 Implement a Mobile-Friendly Navigation Menu with a hamburger menu on small screens
 
-📱 TASK 4: RESPONSIVE DESIGN
-🔄 ADAPTIVE WEBPAGE
-🌍 Convert a BASIC WEBPAGE into a RESPONSIVE DESIGN using CSS MEDIA QUERIES.
-📱✅ WORKS PERFECTLY ON MOBILE, TABLET, AND DESKTOP.
+🖼️ Task 5: Image Manipulation 🎞️
+Description:
+🖼️ Enhance visual engagement with CSS-based image effects.
 
-🍔 MOBILE NAVIGATION
-📲 Create a HAMBURGER MENU that:
-🔹 👉 COLLAPSES ON SMALLER SCREENS
-🔹 👉 USES CSS AND JAVASCRIPT FOR SMOOTH TRANSITIONS
+Features:
+✔️ 📸 Develop an Image Gallery with thumbnails that enlarge on click
+✔️ 🎬 Create an Image Slideshow that automatically transitions between images
 
-🖼️ TASK 5: IMAGE MANIPULATION
-📸 IMAGE GALLERY
-🖼️ Use CSS to create an IMAGE GALLERY where:
-✅ 👉 THUMBNAILS ENLARGE WHEN CLICKED.
-
-🎞️ IMAGE SLIDESHOW
-🎬 Implement a SLIDESHOW that:
-🔄 👉 AUTOMATICALLY TRANSITIONS BETWEEN IMAGES.
