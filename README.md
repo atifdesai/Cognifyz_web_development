@@ -1,62 +1,62 @@
-🎯 Cognifyz Technologies Internship (Feb 7 – March 7, 2025)
-📌 Task 1: HTML/CSS
-🎨 Simple Webpage
+🌟 COGNIFYZ TECHNOLOGIES INTERNSHIP (FEB 7 – MARCH 7, 2025) 🌟
+📌 TASK 1: HTML/CSS
+🎨 SIMPLE WEBPAGE
 🖥️ Create a webpage with:
-✅ Heading
-✅ Paragraph
-✅ Image
+✔️ 👉 HEADING
+✔️ 👉 PARAGRAPH
+✔️ 👉 IMAGE
 ✨ Styled using CSS for a clean look.
 
-📝 Basic Form
+📝 BASIC FORM
 📩 Build a form with:
-🔹 Single input field (e.g., name or email)
-🔹 Submit button
-💡 Apply CSS styling for a professional design.
+🔹 👉 SINGLE INPUT FIELD (e.g., Name or Email)
+🔹 👉 SUBMIT BUTTON
+💡 Apply CSS STYLING for a professional design.
 
-🔗 Navigation Menu
-🌐 Design a simple navigation menu with:
-🔹 Three links
-🔹 Hover effects for a smooth experience.
+🔗 NAVIGATION MENU
+🌐 Design a simple NAVIGATION MENU with:
+🔹 👉 THREE LINKS
+🔹 👉 HOVER EFFECTS for a smooth experience.
 
-⚡ Task 2: JavaScript
-🎨 Interactive Button
-🎨 Develop a button that changes color when clicked.
+⚡ TASK 2: JAVASCRIPT
+🎨 INTERACTIVE BUTTON
+🎨 Develop a button that CHANGES COLOR WHEN CLICKED.
 
-⏰ Dynamic Greeting Alert
-💬 Create an alert box that greets users based on current time (e.g., "Good Morning! 🌞").
+⏰ DYNAMIC GREETING ALERT
+💬 Create an ALERT BOX that displays a GREETING MESSAGE BASED ON THE CURRENT TIME (e.g., "Good Morning! 🌞").
 
-➕ Basic Calculator
-🧮 Build a calculator that:
-🔹 Takes two numbers as input
-🔹 Adds them together
-🔹 Displays the result
+➕ BASIC CALCULATOR
+🧮 Build a CALCULATOR that:
+🔹 👉 TAKES TWO NUMBERS AS INPUT
+🔹 👉 ADDS THEM TOGETHER
+🔹 👉 DISPLAYS THE RESULT
 
-🖼️ Task 3: Front-end Frameworks
-📦 Responsive Card Component
-🃏 Use Bulma or UIKit to create a card with:
-📸 Image
-📝 Text
-✔️ Fully responsive on all devices.
+🖼️ TASK 3: FRONT-END FRAMEWORKS
+📦 RESPONSIVE CARD COMPONENT
+🃏 Use BULMA OR UIKIT to create a CARD with:
+📸 👉 IMAGE
+📝 👉 TEXT
+✔️ Fully RESPONSIVE ON ALL DEVICES.
 
-📐 Responsive Grid Layout
-📊 Implement a grid layout using Bootstrap or Foundation.
-✔️ Adapts to different screen sizes.
+📐 RESPONSIVE GRID LAYOUT
+📊 Implement a GRID LAYOUT using BOOTSTRAP OR FOUNDATION.
+✔️ 👉 ADAPTS TO DIFFERENT SCREEN SIZES.
 
-📱 Task 4: Responsive Design
-🔄 Adaptive Webpage
-🌍 Convert a basic webpage into a responsive design using CSS media queries.
-📱✅ Works perfectly on mobile, tablet, and desktop.
+📱 TASK 4: RESPONSIVE DESIGN
+🔄 ADAPTIVE WEBPAGE
+🌍 Convert a BASIC WEBPAGE into a RESPONSIVE DESIGN using CSS MEDIA QUERIES.
+📱✅ WORKS PERFECTLY ON MOBILE, TABLET, AND DESKTOP.
 
-🍔 Mobile Navigation
-📲 Create a hamburger menu that:
-🔹 Collapses on smaller screens
-🔹 Uses CSS and JavaScript for smooth transitions
+🍔 MOBILE NAVIGATION
+📲 Create a HAMBURGER MENU that:
+🔹 👉 COLLAPSES ON SMALLER SCREENS
+🔹 👉 USES CSS AND JAVASCRIPT FOR SMOOTH TRANSITIONS
 
-🖼️ Task 5: Image Manipulation
-📸 Image Gallery
-🖼️ Use CSS to create a gallery where:
-✅ Thumbnails enlarge when clicked.
+🖼️ TASK 5: IMAGE MANIPULATION
+📸 IMAGE GALLERY
+🖼️ Use CSS to create an IMAGE GALLERY where:
+✅ 👉 THUMBNAILS ENLARGE WHEN CLICKED.
 
-🎞️ Image Slideshow
-🎬 Implement a slideshow that:
-🔄 Automatically transitions between images.
+🎞️ IMAGE SLIDESHOW
+🎬 Implement a SLIDESHOW that:
+🔄 👉 AUTOMATICALLY TRANSITIONS BETWEEN IMAGES.
